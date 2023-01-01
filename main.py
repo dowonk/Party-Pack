@@ -47,7 +47,7 @@ class Menu(discord.ui.View):
 			min_values = 1,
 			max_values = 1,
 			options = [
-					discord.SelectOption(label="Just One"),
+					discord.SelectOption(label="Just Ones"),
 					discord.SelectOption(label="Shiritori"),
 					discord.SelectOption(label="The Chameleon")
 			]
