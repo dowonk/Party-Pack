@@ -1,1 +1,2 @@
-Discord Bot for Party Games (Chameleon, Just One, Shiritori)
+Discord Bot for playing party games
+(Chameleon, Just One, Shiritori)
