@@ -36,4 +36,4 @@ async def play(ctx):
 		pass
 	await client.load_extension('menu')
 
-client.run('OTg2ODk3NTIwOTEzNDQwNzc4.GbfKcn.1xpI7M1S922hQ2_bATOhHYdMsmZDdNi25LA9TM')
+client.run(os.environ['TOKEN'])
